@@ -1,0 +1,146 @@
+2022-12-16 09:30:58,494 INFO o.h.v.i.u.Version [background-preinit] HV000001: Hibernate Validator 8.0.0.Final
+2022-12-16 09:30:58,606 INFO o.s.b.StartupInfoLogger [main] Starting TransactionReconciliationServiceApplication using Java 17.0.1 with PID 1779 (/Users/jamesrooney/Desktop/delete-this/transaction-reconciliation/target/classes started by jamesrooney in /Users/jamesrooney/Desktop/delete-this/transaction-reconciliation)
+2022-12-16 09:30:58,608 INFO o.s.b.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-12-16 09:30:59,931 INFO o.s.b.w.e.t.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2022-12-16 09:30:59,945 INFO o.a.j.l.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2022-12-16 09:30:59,954 INFO o.a.j.l.DirectJDKLog [main] Starting service [Tomcat]
+2022-12-16 09:30:59,955 INFO o.a.j.l.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/10.1.1]
+2022-12-16 09:31:00,089 INFO o.a.j.l.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2022-12-16 09:31:00,092 INFO o.s.b.w.s.c.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1394 ms
+2022-12-16 09:31:00,673 INFO o.a.j.l.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2022-12-16 09:31:00,724 INFO o.s.b.w.e.t.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2022-12-16 09:31:00,735 INFO o.s.b.StartupInfoLogger [main] Started TransactionReconciliationServiceApplication in 3.25 seconds (process running for 4.792)
+2022-12-16 09:31:14,971 INFO o.a.j.l.DirectJDKLog [http-nio-8080-exec-2] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-12-16 09:31:14,972 INFO o.s.w.s.FrameworkServlet [http-nio-8080-exec-2] Initializing Servlet 'dispatcherServlet'
+2022-12-16 09:31:14,974 INFO o.s.w.s.FrameworkServlet [http-nio-8080-exec-2] Completed initialization in 2 ms
+2022-12-16 10:08:21,442 INFO o.h.v.i.u.Version [background-preinit] HV000001: Hibernate Validator 8.0.0.Final
+2022-12-16 10:08:21,514 INFO o.s.b.StartupInfoLogger [main] Starting TransactionReconciliationServiceApplication using Java 17.0.1 with PID 2126 (/Users/jamesrooney/Desktop/delete-this/transaction-reconciliation/target/classes started by jamesrooney in /Users/jamesrooney/Desktop/delete-this/transaction-reconciliation)
+2022-12-16 10:08:21,516 INFO o.s.b.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-12-16 10:08:22,929 INFO o.s.b.w.e.t.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2022-12-16 10:08:22,946 INFO o.a.j.l.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2022-12-16 10:08:22,947 INFO o.a.j.l.DirectJDKLog [main] Starting service [Tomcat]
+2022-12-16 10:08:22,948 INFO o.a.j.l.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/10.1.1]
+2022-12-16 10:08:23,086 INFO o.a.j.l.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2022-12-16 10:08:23,089 INFO o.s.b.w.s.c.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1505 ms
+2022-12-16 10:08:23,649 INFO o.a.j.l.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2022-12-16 10:08:23,706 INFO o.s.b.w.e.t.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2022-12-16 10:08:23,720 INFO o.s.b.StartupInfoLogger [main] Started TransactionReconciliationServiceApplication in 3.049 seconds (process running for 3.786)
+2022-12-16 10:08:44,359 INFO o.a.j.l.DirectJDKLog [http-nio-8080-exec-2] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-12-16 10:08:44,359 INFO o.s.w.s.FrameworkServlet [http-nio-8080-exec-2] Initializing Servlet 'dispatcherServlet'
+2022-12-16 10:08:44,362 INFO o.s.w.s.FrameworkServlet [http-nio-8080-exec-2] Completed initialization in 3 ms
+2022-12-16 10:09:36,500 INFO o.h.v.i.u.Version [background-preinit] HV000001: Hibernate Validator 8.0.0.Final
+2022-12-16 10:09:36,577 INFO o.s.b.StartupInfoLogger [main] Starting TransactionReconciliationServiceApplication using Java 17.0.1 with PID 2142 (/Users/jamesrooney/Desktop/delete-this/transaction-reconciliation/target/classes started by jamesrooney in /Users/jamesrooney/Desktop/delete-this/transaction-reconciliation)
+2022-12-16 10:09:36,578 INFO o.s.b.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-12-16 10:09:37,839 INFO o.s.b.w.e.t.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2022-12-16 10:09:37,854 INFO o.a.j.l.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2022-12-16 10:09:37,856 INFO o.a.j.l.DirectJDKLog [main] Starting service [Tomcat]
+2022-12-16 10:09:37,856 INFO o.a.j.l.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/10.1.1]
+2022-12-16 10:09:37,984 INFO o.a.j.l.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2022-12-16 10:09:37,988 INFO o.s.b.w.s.c.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1339 ms
+2022-12-16 10:09:38,461 INFO o.a.j.l.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2022-12-16 10:09:38,517 INFO o.s.b.w.e.t.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2022-12-16 10:09:38,528 INFO o.s.b.StartupInfoLogger [main] Started TransactionReconciliationServiceApplication in 2.784 seconds (process running for 3.472)
+2022-12-16 10:11:19,561 INFO o.a.j.l.DirectJDKLog [http-nio-8080-exec-2] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-12-16 10:11:19,561 INFO o.s.w.s.FrameworkServlet [http-nio-8080-exec-2] Initializing Servlet 'dispatcherServlet'
+2022-12-16 10:11:19,564 INFO o.s.w.s.FrameworkServlet [http-nio-8080-exec-2] Completed initialization in 1 ms
+2022-12-16 10:11:24,889 INFO c.j.s.CashTransactionServiceImpl [http-nio-8080-exec-3] Handling duplicate cash transaction.
+2022-12-16 10:11:24,892 INFO c.j.s.CashTransactionServiceImpl [http-nio-8080-exec-3] Handling duplicate cash transaction.
+2022-12-16 10:11:24,892 INFO c.j.s.CashTransactionServiceImpl [http-nio-8080-exec-3] Handling duplicate cash transaction.
+2022-12-16 10:11:24,893 INFO c.j.s.CashTransactionServiceImpl [http-nio-8080-exec-3] Handling duplicate cash transaction.
+2022-12-16 10:11:24,894 INFO c.j.s.CashTransactionServiceImpl [http-nio-8080-exec-3] Handling duplicate cash transaction.
+2022-12-16 10:11:24,894 INFO c.j.s.CashTransactionServiceImpl [http-nio-8080-exec-3] Handling duplicate cash transaction.
+2022-12-16 10:11:24,895 INFO c.j.s.CashTransactionServiceImpl [http-nio-8080-exec-3] Handling duplicate cash transaction.
+2022-12-16 10:11:24,897 INFO c.j.s.CashTransactionServiceImpl [http-nio-8080-exec-3] Handling duplicate cash transaction.
+2022-12-16 10:11:26,417 INFO c.j.s.CashTransactionServiceImpl [http-nio-8080-exec-4] Handling duplicate cash transaction.
+2022-12-16 10:11:26,417 INFO c.j.s.CashTransactionServiceImpl [http-nio-8080-exec-4] Handling duplicate cash transaction.
+2022-12-16 10:11:26,417 INFO c.j.s.CashTransactionServiceImpl [http-nio-8080-exec-4] Handling duplicate cash transaction.
+2022-12-16 10:11:26,418 INFO c.j.s.CashTransactionServiceImpl [http-nio-8080-exec-4] Handling duplicate cash transaction.
+2022-12-16 10:11:26,418 INFO c.j.s.CashTransactionServiceImpl [http-nio-8080-exec-4] Handling duplicate cash transaction.
+2022-12-16 10:11:26,418 INFO c.j.s.CashTransactionServiceImpl [http-nio-8080-exec-4] Handling duplicate cash transaction.
+2022-12-16 10:11:26,418 INFO c.j.s.CashTransactionServiceImpl [http-nio-8080-exec-4] Handling duplicate cash transaction.
+2022-12-16 10:11:26,418 INFO c.j.s.CashTransactionServiceImpl [http-nio-8080-exec-4] Handling duplicate cash transaction.
+2022-12-16 11:19:14,458 INFO o.h.v.i.u.Version [background-preinit] HV000001: Hibernate Validator 8.0.0.Final
+2022-12-16 11:19:14,535 INFO o.s.b.StartupInfoLogger [main] Starting TransactionReconciliationServiceApplication using Java 17.0.1 with PID 7520 (/Users/jamesrooney/Desktop/delete-this/transaction-reconciliation/target/classes started by jamesrooney in /Users/jamesrooney/Desktop/delete-this/transaction-reconciliation)
+2022-12-16 11:19:14,537 INFO o.s.b.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-12-16 11:19:15,770 INFO o.s.b.w.e.t.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2022-12-16 11:19:15,784 INFO o.a.j.l.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2022-12-16 11:19:15,785 INFO o.a.j.l.DirectJDKLog [main] Starting service [Tomcat]
+2022-12-16 11:19:15,785 INFO o.a.j.l.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/10.1.1]
+2022-12-16 11:19:15,905 INFO o.a.j.l.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2022-12-16 11:19:15,908 INFO o.s.b.w.s.c.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1304 ms
+2022-12-16 11:19:16,355 INFO o.a.j.l.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2022-12-16 11:19:16,400 INFO o.s.b.w.e.t.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2022-12-16 11:19:16,409 INFO o.s.b.StartupInfoLogger [main] Started TransactionReconciliationServiceApplication in 2.758 seconds (process running for 3.557)
+2022-12-16 11:19:22,387 INFO o.a.j.l.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-12-16 11:19:22,388 INFO o.s.w.s.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2022-12-16 11:19:22,390 INFO o.s.w.s.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 2 ms
+2022-12-16 11:19:22,790 INFO c.j.s.CashTransactionServiceImpl [http-nio-8080-exec-1] Handling duplicate cash transaction.
+2022-12-16 11:19:22,791 INFO c.j.s.CashTransactionServiceImpl [http-nio-8080-exec-1] Handling duplicate cash transaction.
+2022-12-16 11:19:22,792 INFO c.j.s.CashTransactionServiceImpl [http-nio-8080-exec-1] Handling duplicate cash transaction.
+2022-12-16 11:19:22,794 INFO c.j.s.CashTransactionServiceImpl [http-nio-8080-exec-1] Handling duplicate cash transaction.
+2022-12-16 11:19:22,796 INFO c.j.s.CashTransactionServiceImpl [http-nio-8080-exec-1] Handling duplicate cash transaction.
+2022-12-16 11:19:22,797 INFO c.j.s.CashTransactionServiceImpl [http-nio-8080-exec-1] Handling duplicate cash transaction.
+2022-12-16 11:19:22,797 INFO c.j.s.CashTransactionServiceImpl [http-nio-8080-exec-1] Handling duplicate cash transaction.
+2022-12-16 11:19:22,797 INFO c.j.s.CashTransactionServiceImpl [http-nio-8080-exec-1] Handling duplicate cash transaction.
+2022-12-16 11:19:24,330 INFO c.j.s.CashTransactionServiceImpl [http-nio-8080-exec-3] Handling duplicate cash transaction.
+2022-12-16 11:19:24,331 INFO c.j.s.CashTransactionServiceImpl [http-nio-8080-exec-3] Handling duplicate cash transaction.
+2022-12-16 11:19:24,332 INFO c.j.s.CashTransactionServiceImpl [http-nio-8080-exec-3] Handling duplicate cash transaction.
+2022-12-16 11:19:24,333 INFO c.j.s.CashTransactionServiceImpl [http-nio-8080-exec-3] Handling duplicate cash transaction.
+2022-12-16 11:19:24,333 INFO c.j.s.CashTransactionServiceImpl [http-nio-8080-exec-3] Handling duplicate cash transaction.
+2022-12-16 11:19:24,333 INFO c.j.s.CashTransactionServiceImpl [http-nio-8080-exec-3] Handling duplicate cash transaction.
+2022-12-16 11:19:24,333 INFO c.j.s.CashTransactionServiceImpl [http-nio-8080-exec-3] Handling duplicate cash transaction.
+2022-12-16 11:19:24,334 INFO c.j.s.CashTransactionServiceImpl [http-nio-8080-exec-3] Handling duplicate cash transaction.
+2022-12-16 11:21:48,510 INFO o.h.v.i.u.Version [background-preinit] HV000001: Hibernate Validator 8.0.0.Final
+2022-12-16 11:21:48,590 INFO o.s.b.StartupInfoLogger [main] Starting TransactionReconciliationServiceApplication using Java 17.0.1 with PID 7960 (/Users/jamesrooney/Desktop/delete-this/transaction-reconciliation/target/classes started by jamesrooney in /Users/jamesrooney/Desktop/delete-this/transaction-reconciliation)
+2022-12-16 11:21:48,592 INFO o.s.b.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-12-16 11:21:49,751 INFO o.s.b.w.e.t.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2022-12-16 11:21:49,765 INFO o.a.j.l.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2022-12-16 11:21:49,767 INFO o.a.j.l.DirectJDKLog [main] Starting service [Tomcat]
+2022-12-16 11:21:49,767 INFO o.a.j.l.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/10.1.1]
+2022-12-16 11:21:49,885 INFO o.a.j.l.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2022-12-16 11:21:49,888 INFO o.s.b.w.s.c.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1226 ms
+2022-12-16 11:21:50,351 INFO o.a.j.l.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2022-12-16 11:21:50,397 INFO o.s.b.w.e.t.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2022-12-16 11:21:50,408 INFO o.s.b.StartupInfoLogger [main] Started TransactionReconciliationServiceApplication in 2.611 seconds (process running for 3.285)
+2022-12-16 11:22:07,033 INFO o.a.j.l.DirectJDKLog [http-nio-8080-exec-2] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-12-16 11:22:07,034 INFO o.s.w.s.FrameworkServlet [http-nio-8080-exec-2] Initializing Servlet 'dispatcherServlet'
+2022-12-16 11:22:07,035 INFO o.s.w.s.FrameworkServlet [http-nio-8080-exec-2] Completed initialization in 1 ms
+2022-12-16 11:39:59,116 INFO o.h.v.i.u.Version [background-preinit] HV000001: Hibernate Validator 8.0.0.Final
+2022-12-16 11:39:59,194 INFO o.s.b.StartupInfoLogger [main] Starting TransactionReconciliationServiceApplication using Java 17.0.1 with PID 9751 (/Users/jamesrooney/Desktop/delete-this/transaction-reconciliation/target/classes started by jamesrooney in /Users/jamesrooney/Desktop/delete-this/transaction-reconciliation)
+2022-12-16 11:39:59,195 INFO o.s.b.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-12-16 11:40:00,314 INFO o.s.b.w.e.t.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2022-12-16 11:40:00,328 INFO o.a.j.l.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2022-12-16 11:40:00,329 INFO o.a.j.l.DirectJDKLog [main] Starting service [Tomcat]
+2022-12-16 11:40:00,329 INFO o.a.j.l.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/10.1.1]
+2022-12-16 11:40:00,439 INFO o.a.j.l.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2022-12-16 11:40:00,442 INFO o.s.b.w.s.c.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1187 ms
+2022-12-16 11:40:00,885 INFO o.a.j.l.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2022-12-16 11:40:00,931 INFO o.s.b.w.e.t.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2022-12-16 11:40:00,941 INFO o.s.b.StartupInfoLogger [main] Started TransactionReconciliationServiceApplication in 2.603 seconds (process running for 3.446)
+2022-12-16 11:40:26,434 INFO o.a.j.l.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-12-16 11:40:26,435 INFO o.s.w.s.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2022-12-16 11:40:26,438 INFO o.s.w.s.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 2 ms
+2022-12-16 11:40:49,401 INFO c.j.s.CashTransactionServiceImpl [http-nio-8080-exec-3] Handling duplicate cash transaction.
+2022-12-16 11:40:49,407 INFO c.j.s.CashTransactionServiceImpl [http-nio-8080-exec-3] Handling duplicate cash transaction.
+2022-12-16 11:40:49,408 INFO c.j.s.CashTransactionServiceImpl [http-nio-8080-exec-3] Handling duplicate cash transaction.
+2022-12-16 11:40:49,409 INFO c.j.s.CashTransactionServiceImpl [http-nio-8080-exec-3] Handling duplicate cash transaction.
+2022-12-16 11:40:49,410 INFO c.j.s.CashTransactionServiceImpl [http-nio-8080-exec-3] Handling duplicate cash transaction.
+2022-12-16 11:40:49,410 INFO c.j.s.CashTransactionServiceImpl [http-nio-8080-exec-3] Handling duplicate cash transaction.
+2022-12-16 11:40:49,411 INFO c.j.s.CashTransactionServiceImpl [http-nio-8080-exec-3] Handling duplicate cash transaction.
+2022-12-16 11:40:49,411 INFO c.j.s.CashTransactionServiceImpl [http-nio-8080-exec-3] Handling duplicate cash transaction.
+2022-12-16 11:40:50,678 INFO c.j.s.CashTransactionServiceImpl [http-nio-8080-exec-4] Handling duplicate cash transaction.
+2022-12-16 11:40:50,678 INFO c.j.s.CashTransactionServiceImpl [http-nio-8080-exec-4] Handling duplicate cash transaction.
+2022-12-16 11:40:50,679 INFO c.j.s.CashTransactionServiceImpl [http-nio-8080-exec-4] Handling duplicate cash transaction.
+2022-12-16 11:40:50,679 INFO c.j.s.CashTransactionServiceImpl [http-nio-8080-exec-4] Handling duplicate cash transaction.
+2022-12-16 11:40:50,679 INFO c.j.s.CashTransactionServiceImpl [http-nio-8080-exec-4] Handling duplicate cash transaction.
+2022-12-16 11:40:50,679 INFO c.j.s.CashTransactionServiceImpl [http-nio-8080-exec-4] Handling duplicate cash transaction.
+2022-12-16 11:40:50,680 INFO c.j.s.CashTransactionServiceImpl [http-nio-8080-exec-4] Handling duplicate cash transaction.
+2022-12-16 11:40:50,680 INFO c.j.s.CashTransactionServiceImpl [http-nio-8080-exec-4] Handling duplicate cash transaction.
+2022-12-16 11:40:51,738 INFO c.j.s.CashTransactionServiceImpl [http-nio-8080-exec-5] Handling duplicate cash transaction.
+2022-12-16 11:40:51,739 INFO c.j.s.CashTransactionServiceImpl [http-nio-8080-exec-5] Handling duplicate cash transaction.
+2022-12-16 11:40:51,740 INFO c.j.s.CashTransactionServiceImpl [http-nio-8080-exec-5] Handling duplicate cash transaction.
+2022-12-16 11:40:51,740 INFO c.j.s.CashTransactionServiceImpl [http-nio-8080-exec-5] Handling duplicate cash transaction.
+2022-12-16 11:40:51,740 INFO c.j.s.CashTransactionServiceImpl [http-nio-8080-exec-5] Handling duplicate cash transaction.
+2022-12-16 11:40:51,741 INFO c.j.s.CashTransactionServiceImpl [http-nio-8080-exec-5] Handling duplicate cash transaction.
+2022-12-16 11:40:51,741 INFO c.j.s.CashTransactionServiceImpl [http-nio-8080-exec-5] Handling duplicate cash transaction.
+2022-12-16 11:40:51,741 INFO c.j.s.CashTransactionServiceImpl [http-nio-8080-exec-5] Handling duplicate cash transaction.

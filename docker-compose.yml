@@ -1,0 +1,5 @@
+services:
+  transaction-recon-service:
+    image: jamesvrooney/transaction-recon:v0.0.1
+    ports:
+      - 8080:8080

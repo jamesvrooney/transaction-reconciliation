@@ -1,0 +1,15 @@
+2022-12-15 23:43:11,001 INFO o.h.v.i.u.Version [background-preinit] HV000001: Hibernate Validator 8.0.0.Final
+2022-12-15 23:43:11,094 INFO o.s.b.StartupInfoLogger [main] Starting TransactionReconciliationServiceApplication v0.0.1-SNAPSHOT using Java 17.0.1 with PID 88019 (/Users/jamesrooney/Desktop/delete-this/transaction-reconciliation/target/transaction-reconciliation-0.0.1-SNAPSHOT.jar started by jamesrooney in /Users/jamesrooney/Desktop/delete-this/transaction-reconciliation)
+2022-12-15 23:43:11,096 INFO o.s.b.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-12-15 23:43:12,296 INFO o.s.b.w.e.t.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2022-12-15 23:43:12,311 INFO o.a.j.l.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2022-12-15 23:43:12,312 INFO o.a.j.l.DirectJDKLog [main] Starting service [Tomcat]
+2022-12-15 23:43:12,312 INFO o.a.j.l.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/10.1.1]
+2022-12-15 23:43:12,413 INFO o.a.j.l.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2022-12-15 23:43:12,415 INFO o.s.b.w.s.c.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1250 ms
+2022-12-15 23:43:12,820 INFO o.a.j.l.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2022-12-15 23:43:12,859 INFO o.s.b.w.e.t.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2022-12-15 23:43:12,888 INFO o.s.b.StartupInfoLogger [main] Started TransactionReconciliationServiceApplication in 2.528 seconds (process running for 3.085)
+2022-12-15 23:43:28,046 INFO o.a.j.l.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-12-15 23:43:28,047 INFO o.s.w.s.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2022-12-15 23:43:28,049 INFO o.s.w.s.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 0 ms
