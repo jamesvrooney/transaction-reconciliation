@@ -1,0 +1,209 @@
+{
+	"info": {
+		"_postman_id": "79246455-fd16-4119-9729-3bed295847f7",
+		"name": "Job Technical Tests",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "1644273"
+	},
+	"item": [
+		{
+			"name": "Funds Rec",
+			"item": [
+				{
+					"name": "Get all transactions",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "localhost:8080/api/transactions/all",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"api",
+								"transactions",
+								"all"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Add transactions",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "[\n   {\n       \"date\": \"11-12-2018\",\n       \"type\": \"credit\",\n       \"amount\": \"400.36\"\n   },\n   {\n       \"date\": \"11-12-2019\",\n       \"type\": \"credit\",\n       \"amount\": \"300.36\"\n   },\n   {\n       \"date\": \"11-12-2017\",\n       \"type\": \"credit\",\n       \"amount\": \"700.36\"\n   },\n   {\n       \"date\": \"11-12-2020\",\n       \"type\": \"credit\",\n       \"amount\": \"100.36\"\n   },\n   {\n       \"date\": \"11-12-2017\",\n       \"type\": \"debit\",\n       \"amount\": \"100.36\"\n   }, \n   {\n       \"date\": \"04-12-2018\",\n       \"type\": \"credit\",\n       \"amount\": \"500.36\"\n   },\n   {\n       \"date\": \"31-12-2019\",\n       \"type\": \"credit\",\n       \"amount\": \"200.36\"\n   }, \n   {\n       \"date\": \"03-12-2018\",\n       \"type\": \"credit\",\n       \"amount\": \"600.36\"\n   }\n]",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "localhost:8080/api/transactions/add",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"api",
+								"transactions",
+								"add"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Add one transaction",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "[ \n   {\n       \"date\": \"20-06-2019\",\n       \"type\": \"credit\",\n       \"amount\": \"600.36\"\n   }\n]",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "localhost:8080/api/transactions/add",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"api",
+								"transactions",
+								"add"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Add one transaction | Invalid type",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "[ \n   {\n       \"date\": \"20-06-2019\",\n       \"type\": \"invalid\",\n       \"amount\": \"600.36\"\n   }\n]",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "localhost:8080/api/transactions/add",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"api",
+								"transactions",
+								"add"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Add one transaction | Invalid amount",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "[ \n   {\n       \"date\": \"20-06-2019\",\n       \"type\": \"credit\",\n       \"amount\": \"invalid\"\n   }\n]",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "localhost:8080/api/transactions/add",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"api",
+								"transactions",
+								"add"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Add transactions (update)",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "[\n   {\n       \"date\": \"11-12-2020\",\n       \"type\": \"credit\",\n       \"amount\": \"100.00\"\n   }\n]",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "localhost:8080/api/transactions/add",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"api",
+								"transactions",
+								"add"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Add transactions | validate body",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "[\n    {\n        \"numberBetweenOneAndTen\": 6\n    },\n    {\n        \"numberBetweenOneAndTen\": 5\n    },\n    {\n        \"numberBetweenOneAndTen\": 16\n    },\n    {\n        \"numberBetweenOneAndTen\": 7\n    }\n]",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "localhost:8080/api/transactions/validateBody",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"api",
+								"transactions",
+								"validateBody"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}
